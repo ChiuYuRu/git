@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 git
-start now 123
-=======
-
-start now xxx
-yyy
->>>>>>> master
+start now 123 456
